@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "WGSWeb",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WGSWeb"
+	}
+}
